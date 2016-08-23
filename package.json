@@ -1,0 +1,18 @@
+{
+  "name": "insert-time",
+  "main": "./lib/insert-time",
+  "version": "0.0.0",
+  "description": "Вставка времени",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "insert-time:toggle"
+  },
+  "repository": "https://github.com/atom/insert-time",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

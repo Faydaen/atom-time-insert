@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle insert-time",
+        "command": "insert-time:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "insert-time",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "insert-time:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
