@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-i": "insTime",
-    "ctrl-alt-i": "insDate"
+    "ctrl-alt-i": "insDate",
+    "alt-o": "insCheckMark"
   }
 }

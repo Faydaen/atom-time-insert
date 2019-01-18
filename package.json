@@ -3,8 +3,7 @@
   "main": "./lib/insert-time",
   "version": "0.0.0",
   "description": "Вставка времени",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "insert-time:toggle"
   },
@@ -13,6 +12,10 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
+  "dependencies": {},
+  "apmInstallSource": {
+    "type": "git",
+    "source": "faydaen/atom-time-insert",
+    "sha": "c860b4e73b10eb5b49c2b029070c7cea13a45ed6"
   }
 }
