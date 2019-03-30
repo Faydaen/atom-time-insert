@@ -3,10 +3,9 @@
     "ctrl-i": "insTime",
     "ctrl-alt-i": "insDate",
     "alt-o": "insCheckMark",
-    "alt-m": "insPoint",
-    "alt-,": "insStartPeriud",
-    "alt-.": "insFinshPeriud",
-    "alt-/": "insBorderPeriud",
-    "alt-`": "insCheckTilda"
+    "alt-;": "insPoint",
+    "alt-.": "insStartPeriud",
+    "alt-,": "insFinshPeriud",
+    "alt-/": "insBorderPeriud"
   }
 }
