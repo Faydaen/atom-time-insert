@@ -1,18 +1,20 @@
 {
-  "name": "insert-time",
-  "main": "./lib/insert-time",
-  "version": "0.0.0",
+  "name": "atom-log",
+  "main": "./lib/atom-log",
+  "version": "1.0.0",
   "description": "Вставка времени",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "insert-time:toggle"
+    "atom-workspace": "atom-log:insert"
   },
   "repository": "https://github.com/atom/insert-time",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "moment": "^2.29"
+  },
   "apmInstallSource": {
     "type": "git",
     "source": "faydaen/atom-time-insert",

@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-i": "atom-log:insert",
+    "ctrl-alt-i": "atom-log:insert-date"
+  }
+}

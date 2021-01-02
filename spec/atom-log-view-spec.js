@@ -1,8 +1,8 @@
 'use babel';
 
-import InsertTimeView from '../lib/insert-time-view';
+import AtomLogView from '../lib/atom-log-view';
 
-describe('InsertTimeView', () => {
+describe('AtomLogView', () => {
   it('has one valid test', () => {
     expect('life').toBe('easy');
   });

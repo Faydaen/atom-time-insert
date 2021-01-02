@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle insert-time",
-        "command": "insert-time:toggle"
+        "label": "Insert time",
+        "command": "atom-log:insert"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "insert-time",
+          "label": "atom-log",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "insert-time:toggle"
+              "label": "Insert time",
+              "command": "atom-log:insert"
             }
           ]
         }
