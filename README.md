@@ -1,9 +1,8 @@
-# Вставка времени в редактор atom
+# Diff time package
 
-Плагин позволяет вставить текущие время или дату в редактор
+This package shows the time difference. Уou must select text containing more than two time entries in the full ISO 8601 format (YYYY-MM-DDThh:mm:ss±hh:mm).
 
-### Горячие клавиши
-| **Команда**      | **Горячая клавиша** |
-|------------------|---------------------|
-| Вставить время   | ctrl-i              |
-| Вставить дату    | ctrl-alt-i          |
+For example if you select: "Time of start is 2024-12-20T11:59:16+02:00 and time of end is 2024-12-20T11:59:24+02:00", it shows you 8s
+
+
+

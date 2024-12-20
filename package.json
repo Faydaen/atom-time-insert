@@ -1,23 +1,17 @@
 {
-  "name": "atom-log",
-  "main": "./lib/atom-log",
-  "version": "1.0.0",
-  "description": "Вставка времени",
-  "keywords": [],
-  "activationCommands": {
-    "atom-workspace": "atom-log:insert"
+  "name": "diff-time",
+  "main": "./lib/diff-time",
+  "author": {
+    "name": "Faydaen",
+    "email": "panov.eo@gmail.com"
   },
-  "repository": "https://github.com/atom/insert-time",
+  "version": "1.1.0",
+  "description": "Shows the time difference",
+  "keywords": [
+  ],
+  "repository": "https://github.com/faydaen/diff-time",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "moment": "^2.29"
-  },
-  "apmInstallSource": {
-    "type": "git",
-    "source": "faydaen/atom-time-insert",
-    "sha": "c860b4e73b10eb5b49c2b029070c7cea13a45ed6"
   }
 }
